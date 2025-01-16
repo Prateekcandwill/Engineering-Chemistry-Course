@@ -79,12 +79,3 @@ The course will utilize a four-quadrant approach, including:
 ## Additional Resources
 - Research papers on recent developments in water, fuels, lubricants, and corrosion.
 - E-content and supplementary materials available on Amizone.
-
-## Contributing
-Contributions to enhance the course materials and resources are welcome. Please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any inquiries, please contact [Your Name] at [Your Email].
